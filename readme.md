@@ -7,7 +7,6 @@ Aprimorando meus conhecimentos em tecnologias de desenvolvimento web
 ## :wrench: Tecnologias utilizadas
 * Html
 * Css
-* Javascript
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é apenas necessário clonar o projeto utilizando o <a href="https://git-scm.com/downloads">Git</a>
